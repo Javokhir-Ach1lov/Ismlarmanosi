@@ -1,0 +1,1719 @@
+{
+  "words1": [
+    {
+    "name": "Adiba",
+    "translation": "yozuvchi qiz, ziyoli, ilmli, ijodkor, ilhom izlagan, nazokatli, tarbiyali, odobli, namunali, iffatli qiz. Arabcha."
+  },
+  {
+    "name": "Aziza",
+    "translation": "qadrli, qimmatli, tabarruk, hurmatli yoki qudratli, izzatli, noyob. Arabcha."
+  },
+  {
+    "name": "Akifa",
+    "translation": "g‘ayratli, shijoatli, xudojo‘y qiz. Arabcha."
+  },
+  {
+    "name": "Alima",
+    "translation": "bilimli, aql-zakovatli, dilkash qiz. Arabcha."
+  },
+  { "name": "Anora", "translation": "qizil holli, norli qiz. Fors-tojikcha." },
+  {
+    "name": "Asal",
+    "translation": "asaldek shirin, totli, ya’ni yoqimtoy, suyukli, sevimli qiz. Arabcha."
+  },
+  {
+    "name": "Asila",
+    "translation": "aslzoda, nasli toza qiz, sof, pokiza, qalbi g‘uborsiz, benuqson qiz. Arabcha."
+  },
+  { "name": "Asliya", "translation": "sof, pokiza, toza; aslzoda. Arabcha." },
+  {
+    "name": "Asolat",
+    "translation": "asllik, aslzoda, zoti pok yoki puxta, mustahkam. Arabcha."
+  },
+  {
+    "name": "Afzuna",
+    "translation": "ziyoda, ortiq, yuksak tutuvchi. Yuqoriga intilgan, qadrli, qimmatli. E’tiborga loyiq, yuksak martabali. Fors-tojikcha."
+  },
+  {
+    "name": "Afruza",
+    "translation": "oydek ravshan, quyosh nuridek porloq, shul’ador, yondiruvchi, otashin. Ro‘za oyida tug‘ilgan chiroyli, oydek qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Barno",
+    "translation": "yosh, navqiron, chiroyli, hushbichim, hushqad. Arabcha."
+  },
+  {
+    "name": "Barchinoy,Oybarchin",
+    "translation": "oy yuzli, oy chehrali qiz, iboli, hayoli, oqko‘ngil, qalbi pok, toza. O‘zbekcha."
+  },
+  {
+    "name": "Binafsha",
+    "translation": "binafsha guldek ko‘rkam, nafis, suluv qiz. O‘zbekcha."
+  },
+  {
+    "name": "Begoyim",
+    "translation": "beklar, aslzodalar avlodiga mansub, oliy nasab, viqorli, martabasi baland qiz. Fors-tojikcha."
+  },
+  { "name": "Davriya", "translation": "davr farzandi, zamon qizi. Arabcha." },
+  {
+    "name": "Dilafruz",
+    "translation": "dilni quvontiruvchi, shodlantiruvchi, dil guli, dilni ochuvchi, yayratuvchi, ko‘ngilga huzur, shodlik baxsh etuvchi, kayfiyatni ko‘taruvchi. Fors-tojikcha."
+  },
+  {
+    "name": "Dilbar",
+    "translation": "yoqimli, yoqimtoy, ko‘ngilni oluvchi, maftun qiluvchi, go‘zal, suyukli, zebo. Fors-tojikcha."
+  },
+  {
+    "name": "Dildora",
+    "translation": "dildan sevilgan, chin muhabbat sohibasi, dilni rom qiluvchi yoki rahmdil, jasur, dovyurak. Fors-tojikcha."
+  },
+  {
+    "name": "Dilnoza",
+    "translation": "ishvali, nozli qalb egasi, nozik, nafis dil sohibi. Fors-tojikcha."
+  },
+  {
+    "name": "Dilorom",
+    "translation": "ko‘ngilga taskin, orom beruvchi, huzur-halovat, osoyishtalik baxsh etuvchi; suyukli, sevimli qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Dilrabo",
+    "translation": "dilni tortuvchi, qalbni maftun etuvchi, jozibali, latofatli, nazokatli, ko‘ngilni jalb qiluvchi, suyukli, yoqimtoy, oqko‘ngil, go‘zal qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Dilso‘z",
+    "translation": "jonkuyar, mehribon, mushfiq, dildagi gaplarning egasi, chin so‘z. Fors-tojikcha."
+  },
+  {
+    "name": "Dilfuza",
+    "translation": "dilfiruza ismning o‘zgartirilgan shakli. Dilni yorituvchi, ko‘ngilga, qalbga shodlik, quvonch olib keluvchi, shavq bag‘ishlovchi, tengsiz, ko‘rkam. Fors-tojikcha."
+  },
+  {
+    "name": "Diyora",
+    "translation": "o‘lka, zamin, ona yurtning vafodor, fidokor, elim, yurtim deb yashovchi farzand. Arabcha."
+  },
+  {
+    "name": "Durdona",
+    "translation": "inju donasi, a’lo marvarid; eng aziz, qadrli, chiroyli, nafis, suluv qiz. Arabcha, fors-tojikcha."
+  },
+  {
+    "name": "Ezoza",
+    "translation": "hurmatga, izzat-ikromga, e’zozlanishga sazovor qiz. Arabcha."
+  },
+  {
+    "name": "Fazilat",
+    "translation": "yaxshi hislatlar egasi, go‘zal xulqi bilan boshqalardan afzal, ustun turuvchi. Arabcha."
+  },
+  {
+    "name": "Farangiz",
+    "translation": "nur sochuvchi, ziyokor yoki go‘zal, suyukli, shu’la sochuvchi go‘zal qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Farida",
+    "translation": "bebaho, nodir, noyob, marvarid yoki pardali bo‘lib tug‘ilgan qiz. Arabcha."
+  },
+  {
+    "name": "Feruza",
+    "translation": "baxtli, iqboli baland, tolei porloq, saodatli qiz yoki firuza (ko‘k tusli tovlanuvchi qimmatbaho tosh)dek aziz, qimmatli, qadrli, bebaho, chiroyli, zebo, nafis; nurli nur sochuvchi. Fors-tojikcha."
+  },
+  { "name": "Fotima", "translation": "fatiat" },
+  {
+    "name": "Gavxar",
+    "translation": "gur, marvariddek bebaho qiz yoki asl, aslzoda. Fors-tojikcha."
+  },
+  {
+    "name": "Gulasal",
+    "translation": "guldek go‘zal, chiroyli, nafis, latofatli va boldek shirin, yoqimtoy suyukli, aziz qiz. Arabcha, fors-tojikcha."
+  },
+  {
+    "name": "Gulbaxor",
+    "translation": "bahor guli, ko‘klam chechagidek dilbar, suluv, sohibjamol, go‘zal qiz, bahorda uyg‘onish davrida tug‘ilgan qiz. Hayoti guldek chiroyli bo‘lsin ma’nosida. Fors-tojikcha."
+  },
+  {
+    "name": "Guljamol",
+    "translation": "guldek go‘zal husn sohibi, husni jamoli guldek zebo qiz. Arabcha, fors-tojikcha."
+  },
+  {
+    "name": "Guljaxon",
+    "translation": "baxtli kunlar, ya’ni baxtli, saodatli kunda tug‘ilgan. Hayotda baxtiyor, iqboli, porloq, tolei baland bo‘lsin. Fors-tojikcha."
+  },
+  {
+    "name": "Gulzira",
+    "translation": "zira gulidek yoqimtoy qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Gulzoda",
+    "translation": "go‘zallar nasliga mansub, hurliqolar avlodidan bo‘lgan qiz, guldek nafis, latofatli, zebo va suluv. Fors-tojikcha."
+  },
+  {
+    "name": "Gullola",
+    "translation": "loladek, lolaguldek chiroyli qiz, lolalar ochilganda tug‘ilgan qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Gulnoza",
+    "translation": "gul kabi nafis, nozik va nozli, jilvali gul, yohud go‘zal va nozli qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Gulnora",
+    "translation": "anor gulidek zebo, gul chehrali qiz yoki anor gullaganda tug‘ilgan qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Guloy",
+    "translation": "guldek va oydek zebo qiz yoki guldek yashnagan va oydek nurli, ko‘rkam qiz. Fors-tojikcha, o‘zbekcha."
+  },
+  {
+    "name": "Gulra’no",
+    "translation": "qizil guldek ko‘rkam, go‘zal, nafis, sohibjamol, o‘zidan chiroy taratuvchi qiz. Arabcha, fors-tojikcha."
+  },
+  {
+    "name": "Gulsora",
+    "translation": "saralangan, tanlangan gul, gullarning sarasi, a’losi, eng yaxshi qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Gulchexra",
+    "translation": "gul yuzli, hushro‘y, sohibjmol, chiroyli, maftunkor, istarali, go‘zal chehrali suluv qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Go‘zal",
+    "translation": "chiroyli, zebo, suluv, latofatli, jozibali, nazokatli. Fors-tojikcha."
+  },
+  {
+    "name": "Halima",
+    "translation": "muloyim, mehribon, rahmdil, mehrli, shafqatli, xushmuomala, beozor, suyukli qiz. Payg‘amabarimiz Muhammad (s.a.v.)ga oq sut bergan ayolning ismi. Arabcha."
+  },
+  {
+    "name": "Hanifa",
+    "translation": "rostgo‘y, pokiza, sodiq yoki mehribon, g‘amxo‘r. Arabcha."
+  },
+  {
+    "name": "Hilola",
+    "translation": "yangi oydek ko‘rkam qiz yoki yangi oy chiqqanida tug‘ilgan go‘zal husnli qiz. Arabcha."
+  },
+  {
+    "name": "Hosiyat",
+    "translation": "yaxshi sifatlar, fazilatlar, go‘zal hislatlar egasi yoki omadli, ishi yurishgan yoki xosiyatli kunda tug‘ilgan qiz. Arabcha."
+  },
+  {
+    "name": "Hurshida",
+    "translation": "quyoshdek husnu jamol sohibasi bo‘lgan go‘zal, suluv latofatli, zebo; oftobmonand qiz, quyosh farzandi. Fors-tojikcha."
+  },
+  {
+    "name": "Husnida",
+    "translation": "husniddin ismiga qiyosan yasalgan ism. Go‘zal va chiroyli xusn egasi bo‘lsin degan niyatda. Arabcha."
+  },
+  {
+    "name": "Husniya",
+    "translation": "go‘zal chehrali, chiroyli, latofatli, maftunkor yuzli, zebo qiz. Arabcha."
+  },
+  {
+    "name": "Husnora",
+    "translation": "bezangan, o‘ziga qaragan, zebo qiz; husnda tengsiz, o‘ziga munosib bo‘lgan, mos tushgan go‘zal husn, chiroy va latofat sohibasi. Arabcha, fors-tojikcha."
+  },
+  {
+    "name": "Iroda",
+    "translation": "istab orzu qilib erishilgan qiz yoki Allohning irodasi, muruvvati bo‘lgan qiz, yohud irodali, chidamli qiz. Arabcha."
+  },
+  { "name": "Iffar", "translation": "pokiza, ma’suma, bokira qiz. Arabcha." },
+  {
+    "name": "Ifora",
+    "translation": "hushbo‘y, yoqimli iforli, nafis hid taratuvchi. O‘zbekcha."
+  },
+  {
+    "name": "Jamila",
+    "translation": "go‘zal, sohibjamol, maftunkor, nafis, suluv qiz. Arabcha."
+  },
+  {
+    "name": "Jasmina",
+    "translation": "jannatning guli, jannatda o‘suvchi gulning nomi, hushbo‘y, ifori kuchli chiroyli gul. Fors-tojikcha. (arabcha-Yasmina)"
+  },
+  {
+    "name": "Jumagul",
+    "translation": "juma kuni tug‘ilgan guldek suluv, zebo, go‘zal qiz. Arabcha, fors-tojikcha."
+  },
+  {
+    "name": "Kamola",
+    "translation": "kamolga erishgan yetuk, zebo, ko‘rkam, mukmal inson. O‘zbekcha."
+  },
+  {
+    "name": "Karima",
+    "translation": "sahovatli, sahiy, qo‘li ochiq, mehribon, rahmli, qalbi pok qiz. Arabcha."
+  },
+  {
+    "name": "Komila",
+    "translation": "barkamol, yetuk, bekamu-ko‘st, namunali, ibratli qiz. Arabcha."
+  },
+  {
+    "name": "Kumush",
+    "translation": "kumushdek yorqin, qadrli, qiz yoki oq yuzli oqbadan go‘zal qiz. O‘zbekcha."
+  },
+  {
+    "name": "Laylo",
+    "translation": "tunda tug‘ilgan qiz yoki nilufar (safsan)dek go‘zal qiz. Qadimiy yahudiy tilida: Liliya – Safsangul. Arabcha."
+  },
+  {
+    "name": "Latofat",
+    "translation": "nazokatli, mehribon, latofatli, pokiza, shavqatli, zebo qiz. Arabcha."
+  },
+  {
+    "name": "Lola",
+    "translation": "loladek yashnagan, nafosatli, chiroyli. ko‘rkam, go‘zal qiz yoki lolalar ochilgan payitda tug‘ilgan qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Lobar",
+    "translation": "go‘zal, ko‘rkam, kelishgan, yoqimtoy, nafis, hushfe’l, dilkash qiz. Arabcha."
+  },
+  {
+    "name": "Lutfiya",
+    "translation": "mehribon, dilkash, rahmdil, ko‘ngli pok qiz. Arabcha."
+  },
+  {
+    "name": "Mavluda",
+    "translation": "hosiyatli, yaxshi, muqaddas kunda tug‘ilgan qiz, umrida yaxshi kunlar ko‘p bo‘lsin, hayoti chiroyli o‘tsin. Arabcha."
+  },
+  {
+    "name": "Madina",
+    "translation": "Saudiya Arabistonidagi muqaddas shahar, ziyoratgox bo‘lgan Madinai Munavvara ismidan olingan ism. Arabcha."
+  },
+  {
+    "name": "Malika",
+    "translation": "podshohning avlodiga mansub ulug‘ martabali ayol. Shohbonu, go‘zallar go‘zali, mahvashlar mahvashi, zakovatli sohiba. Malikalardek obro‘-e’tiborli bo‘lsin ma’nosida ham qo‘yiladi. Ushbu ism sohibalaridan biri Amir Temurning xotini, katta malika"
+  },
+  {
+    "name": "Maloxat",
+    "translation": "go‘zal, suluv, nafosatli, dilkash, malohatli, ko‘rkam qiz. Arabcha."
+  },
+  {
+    "name": "Marjona",
+    "translation": "dur, inju, marvaridlar tizimi, qizil rangli yirik munchoq, marjondek qimmatbaho va suluv qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Mastura",
+    "translation": "berkitilgan, yopiq yuzli, halol, pok, toza, pardali, iffatli, hayoli, iboli qiz. Arabcha."
+  },
+  {
+    "name": "Mafzuna",
+    "translation": "latofatli, chiroyli, go‘zallar ichida yagona, suluv va nafosatli qiz. Arabcha."
+  },
+  { "name": "Mafruza", "translation": "tanlab, saylab olingan. Arabcha." },
+  { "name": "Maxsuma", "translation": "sof, pokiza, gunohsiz. Arabcha." },
+  {
+    "name": "Mashxura",
+    "translation": "taniqli, obro‘-e’tiborli, odamlar nazarida bo‘lgan, hurmatli, e’zozli qiz. Arabcha."
+  },
+  {
+    "name": "Ma’mura",
+    "translation": "baxtli, nasibali, farovon yashovchi; boshqaruvchi, yetakchi, yo‘l ko‘rsatuvchi, boshliq. Arabcha."
+  },
+  {
+    "name": "Maqsuda",
+    "translation": "orzu qilingan, orziqib kutilgan qiz. Arabcha."
+  },
+  {
+    "name": "Maxbuba",
+    "translation": "suyukli, qadrli, aziz do‘st, dilbar, dilkash, ko‘ngli toza, sevilgan, dilbar qiz. Arabcha."
+  },
+  {
+    "name": "Maxfuza",
+    "translation": "himoyalangan, muhofazaga olingan yoki qo‘rg‘on, qasr, qal’adek mustahkam baquvvat, yengilmas. Arabcha."
+  },
+  {
+    "name": "Moxigul",
+    "translation": "oydek suluv, chiroyli va gul kabi ko‘rkam qiz, oyning chekkasidagi gul. Fors-tojikcha."
+  },
+  {
+    "name": "Moxidil",
+    "translation": "oydek go‘zal, maftunkor, suluv, qalbi pok, dili toza, go‘zal, fazilatli qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Moxina",
+    "translation": "oyga o‘xshash, oymonand, nafis, nozik yoki yangi oy chiqqan paytda tug‘ilgan yoki yangi oydek suluv qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Moxinur",
+    "translation": "oyning nuri, oydin, oydindek pokiza, suluv, chiroyli, oydek go‘zal qiz. Arabcha, fors-tojikcha."
+  },
+  {
+    "name": "Moxira",
+    "translation": "mahoratli, ustamon, puxta, pishiq, qo‘li gul, epchil, chaqqon, ozoda va saranjom qiz. Arabcha."
+  },
+  {
+    "name": "Muazzam",
+    "translation": "hurmatli, e’zozli, qadrli, e’tiborli qiz. Arabcha."
+  },
+  {
+    "name": "Muattar",
+    "translation": "xushbo‘y, yoqimli hid tarqatuvchi, atir sochuvchi, muattar hidli. Arabcha."
+  },
+  {
+    "name": "Mubina",
+    "translation": "jozibali, istarasi issiq, lobar, ochiq chehrali, rostgo‘y, latofatli, zebo qiz. Arabcha."
+  },
+  {
+    "name": "Muzayyana",
+    "translation": "bezangan, ziynatlangan, orasta. Arabcha."
+  },
+  {
+    "name": "Muqaddam",
+    "translation": "oldinda boruvchi, peshvo yoki oiladagi ilk, birinchi bola. Arabcha."
+  },
+  {
+    "name": "Muqaddas",
+    "translation": "tabarruk, aziz, qadrli yoki pokiza, sof, benuqson, ozoda, qutlug‘. Arabcha."
+  },
+  { "name": "Mumtoz", "translation": "tanlangan, saralangan, zo‘r. Arabcha." },
+  {
+    "name": "Muniba",
+    "translation": "to‘g‘ri yo‘l (din yo‘li)ga kiruvchi; xudojo‘y, oqila inson degan manoni anglatadi. Arabcha."
+  },
+  {
+    "name": "Munira",
+    "translation": "nurli, ravshan, go‘zal, zebo, baxtli, saodatmand, nur sochuvchi, yuzidan nur taraluvchi, zebo qiz. Arabcha."
+  },
+  {
+    "name": "Munisa",
+    "translation": "do‘st, o‘rtoq, sirdosh; sodiq do‘st. Arabcha."
+  },
+  {
+    "name": "Muslima",
+    "translation": "musulmon, xudojo‘y ayol, soliha, Allohga itoat etuvchi mo‘mina qiz. Arabcha."
+  },
+  {
+    "name": "Muxlisa",
+    "translation": "oqko‘ngil qiz, xudojo‘y, muslima, mo‘mina qiz. Arabcha."
+  },
+  {
+    "name": "Muxsina",
+    "translation": "mehribon, yaxshiliklar qiluvchi, muruvvatli, hayirli amallarga intiluvchi, rahmdil qiz. Arabcha"
+  },
+  {
+    "name": "Mushtariy",
+    "translation": "Yupiter sayyorasining nomi yoki biror nima sotib oluvchi, xaridor. Arabcha."
+  },
+  {
+    "name": "Muyassar",
+    "translation": "orzu qilib yurib erishilgan; Alloh erishtirgan, sovg‘a qilgan, muyassar qilgan qiz. Hayotidagi barcha orzulari, niyatlari muyassar bo‘lib ijobat bo‘lsin ma’nosida ham qo‘yiladi. Arabcha."
+  },
+  {
+    "name": "Nargiza",
+    "translation": "nargis (bo‘tagul) dek nozik, nafis, zebo, go‘zal qiz, ifori taraluvchan. O‘zbekcha."
+  },
+  {
+    "name": "Nasiba",
+    "translation": "rizqu-ro‘zli, nasibali qiz. Umri to‘kin-sochinlikda, bekamu-ko‘st o‘tsin, nasibali bo‘lsin ma’nosida. Arabcha."
+  },
+  {
+    "name": "Nafisa",
+    "translation": "nafis, nozik, go‘zal, nafosatli, latofatli, foyda keltiruvchi, yaxshiliklar qiluvchi. Arabcha."
+  },
+  {
+    "name": "Nigora",
+    "translation": "go‘zal chehrali, sohibjamol, o‘ziga rom etuvchi, maftunkor, latofatli, jozibali, go‘zal, zebo, tengsiz husn sohibasi, yoqimtoy. Fors-tojikcha."
+  },
+  {
+    "name": "Nilufar",
+    "translation": "nilufar (savsan) o‘simligidek chiroyli, zebo qiz, o‘ziga maftun etuvchi. O‘zbekcha, hindcha."
+  },
+  {
+    "name": "Nodira",
+    "translation": "tengi yo‘q, yagona, tengsiz, bebaho, benazir, nodir, betakror, beqiyos go‘zallik sohibasi go‘zal, latofatli, zebo qiz. Arabcha."
+  },
+  {
+    "name": "Nozima",
+    "translation": "tartibga, intizomga rioya qiladigan, ya’ni tartibli, sarishta. Arabcha."
+  },
+  {
+    "name": "Noila",
+    "translation": "orzu qilingan, intiqib kutilgan qiz. Alloh bergan sovg‘a, tuhfa. Arabcha."
+  },
+  {
+    "name": "Nuriya",
+    "translation": "baxtli, shodon qiz, hayoti nurli ravshan; o‘zidan nur sochuvchi, oftobdek quvonchli qiz. Arabcha."
+  },
+  {
+    "name": "Ozoda",
+    "translation": "erkin, ixtiyori o‘zida; baxtli, baxtiyor yoki toza, pokiza, saranjom, tartibli, begunoh, beg‘ubor. Ba’zi manbalarada saxiy, oq ko‘ngil, qalbi pok deb ham izohlanadi. Fors-tojikcha."
+  },
+  {
+    "name": "Oygul",
+    "translation": "oydek suluv, go‘zallikda yorqin, guldek zebo, nafis, chiroyli, maftunkor, istarali qiz. O‘zbekcha, fors-tojikcha."
+  },
+  {
+    "name": "Oynur",
+    "translation": "oy yog‘dusidek go‘zal, pokiza; nurafshon qiz. Arabcha, o‘zbekcha."
+  },
+  {
+    "name": "Oysha",
+    "translation": "yashovchi, barhayot, umri uzoq, hayoti nurli qiz. Bu ism Muhammad (s.a.v.)ning ayollari Oysha (r.a.) ismlari bo‘lgan. Arabcha."
+  },
+  {
+    "name": "Oliya",
+    "translation": "yuksak, oliy, ulug‘; e’zozli, izzatli, ulug‘vor, martabali, e’tiborli. Arabcha."
+  },
+  {
+    "name": "Omina",
+    "translation": "omonlikda saqlanuvchi, ya’ni muhofaza qilingan ishonchli ravishda qo‘riqlangan, daxlsiz yoki rostgo‘y, vafodor. Omina"
+  },
+  {
+    "name": "Orzu",
+    "translation": "ota-onasini orzusiga erishtirgan, maqsadiga yetkazg‘an yoki orziqib kutilgan qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Osiyo",
+    "translation": "tegirmon yoki Osiyo qizi, Osiyo farzandi. Fors-tojikcha."
+  },
+  {
+    "name": "Rayona,Rayyona",
+    "translation": "Rayyon-jannat eshiklaridan biri. Bu eshikdan faqat ro‘za tutganlar kiritiladi. Arabcha."
+  },
+  {
+    "name": "Rayxona",
+    "translation": "nozbo‘y, iforli, rayhonday yoqimtoy, yoqimli, nafis, jozibali qiz. Muhammad (s.a.v.)ning ayollaridan birining nomi. Arabcha."
+  },
+  { "name": "Ramziya", "translation": "timsol, o‘rnak, namuna. Arabcha." },
+  {
+    "name": "Rasifa,Rasixa",
+    "translation": "chidamli, mahkam, irodali qiz yoki pokiza, ozoda qiz. Arabcha."
+  },
+  {
+    "name": "Ra’no",
+    "translation": "qizil guldek go‘zal, chiroyli, latofatli, ra’no guldek suluv, purlatofat qiz. Arabcha."
+  },
+  {
+    "name": "Robiya",
+    "translation": "oiladagi to‘rtinchi bola yoki hijriy oy hisobining to‘rtinchi kunida tug‘ilgan bola. Arabcha."
+  },
+  {
+    "name": "Roziya",
+    "translation": "mamnun yoki maqbul tushuvchi, ma’qul keluvchi; yoqimli, suyukli, e’zozli, qadrli; rozilik, shukronalik, itoatgo‘ylik, mamnunlik bahsh etgan. Arabcha."
+  },
+  {
+    "name": "Saboxon",
+    "translation": "tong eli, shabadasi; yoqimli, muloyim yoki sahar paytida tug‘ilgan bola. Arabcha."
+  },
+  {
+    "name": "Saboxat",
+    "translation": "ko‘rkamlik, go‘zallik, malohat, oq yuzli go‘zal, sabo tongi shabadasi, nafislik chiroyi. Arabcha."
+  },
+  {
+    "name": "Sadoqat",
+    "translation": "vafodor, sodiq, chin samimiy do‘st, ishonish, suyanish mumkin bo‘lgan yaqin inson. Arabcha."
+  },
+  {
+    "name": "Saida",
+    "translation": "baxtli, omadli, tolei baland, iqboli porloq, saodatmand qiz. Arabcha."
+  },
+  {
+    "name": "Sayyora",
+    "translation": "tez harakat qiluvchi yulduz; sayyora planetasi yoki tolei baland, iqboli porloq, baxtli-saodatli qiz. Arabcha."
+  },
+  {
+    "name": "Salima",
+    "translation": "sog‘lom, umri uzoq qiz yoki samimiy, dilkash, ko‘ngli ochiq, vafodor qiz. Arabcha."
+  },
+  {
+    "name": "Samina",
+    "translation": "qadrli, izzat-obro‘li qiz yoki Samin (gul)dek chiroyli, zarif, latofatli qiz. Arabcha."
+  },
+  {
+    "name": "Samira",
+    "translation": "suhbatdosh, hamsuhbat, shirinso‘z, dilkash va ko‘ngli ochiq qiz. Arabcha."
+  },
+  { "name": "Samiya", "translation": "ziyrak, sezgir, dono qiz. Arabcha." },
+  {
+    "name": "Sanobar",
+    "translation": "hushqomat, chiroy, daraxtning nomi, sanavbardek go‘zal, kelishgan, hushbichim, suluv qomatli qiz. Arabcha."
+  },
+  {
+    "name": "Saodat",
+    "translation": "baxtli, saodatli, baxtiyor, iqboli porloq, tolei balnd qiz. Arabcha."
+  },
+  {
+    "name": "Sarvinoz",
+    "translation": "tik qomatli, bo‘y-basti kelishgan, sarv daraxtidek kelishgan va nozik qiz. Fors-tojikcha."
+  },
+  { "name": "Safiya", "translation": "aql, donishmandlik yoki arabcha Sofiya" },
+  {
+    "name": "Safura",
+    "translation": "yulduz, yorug‘ yulduz; yorqin, porloq; shukuhli, hashamatli, mag‘rur yoki sochlari sariq qiz. Arabcha."
+  },
+  {
+    "name": "Saxida",
+    "translation": "to‘g‘ri, barvasta qadli, go‘zal qomatli. Arabcha."
+  },
+  {
+    "name": "Sevara",
+    "translation": "suyukli, yoqimtoy, qadrli aziza qiz. O‘zbekcha."
+  },
+  {
+    "name": "Sitora",
+    "translation": "yulduz, baxtli, omadli, chiroyli, tolei baland qiz, yulduz kabi porloq. Arabcha."
+  },
+  {
+    "name": "Sojida",
+    "translation": "sajda qiluvchi, taqvodor, Allohga sig‘inuvchi, muslima mo‘mina qiz. Arabcha."
+  },
+  {
+    "name": "Solixa",
+    "translation": "salohiyatli, pokiza, ozoda yoki diyonatli, taqvodor, xudojo‘y, muslima qiz. Arabcha."
+  },
+  {
+    "name": "Soxiba",
+    "translation": "uyning egasi, bekasi, malikasi yoki do‘st, hayotdagi sodiq yo‘ldosh, suyukli rafiqa, sevilgan yor. Arabcha."
+  },
+  {
+    "name": "Taxmina",
+    "translation": "kuchli, qudratli; jasur. «Shohnoma» asari qahramoni Suhrobning onasini ismi. Arabcha."
+  },
+  {
+    "name": "Umida",
+    "translation": "orzu qilingan, umid bilan kutilgan qiz yoki yashab ketishiga umid qilingan qiz. Arabcha."
+  },
+  {
+    "name": "Umriya",
+    "translation": "uzoq umr yashab hayoti barakali, chiroyli o‘tsin hamda qalbi toza pokiza qiz ma’nosida qo‘yiladi. Arabcha."
+  },
+  {
+    "name": "Vazira",
+    "translation": "ulg‘ayib vazira, martabali, obro‘li bo‘lsin ma’nosida niyat qilib qo‘yiladi. Erining soliha yordamchisi bo‘lsin ma’nosida ham. Arabcha."
+  },
+  {
+    "name": "Valiya",
+    "translation": "taqvodor, iymonu-e’tiqodli, xudojo‘y ayol. Arabcha."
+  },
+  {
+    "name": "Vasli",
+    "translation": "visolga, murod-maqsadga, orzu-umid, go‘zal havasga intiluvchi, erishuvchi qiz. Arabcha."
+  },
+  {
+    "name": "Visola",
+    "translation": "tilab, so‘rab yurib erishilgan, kutib yetishilgan qiz yoki husnijamol, go‘zal, latofatli, suluv, chiroyli qiz. Arabcha."
+  },
+  {
+    "name": "Yasmina",
+    "translation": "jannatning guli, jannatda o‘suvchi gulning nomi, hushbo‘y, ifori kuchli chiroyli gul. Arabcha. (fors-tojikcha-Jasmina)"
+  },
+  {
+    "name": "Yorqinoy",
+    "translation": "hayoti nurli va oydek suluv qiz yoki mehribon dilkash qiz. O‘zbekcha."
+  },
+  {
+    "name": "Yulduz",
+    "translation": "yulduzdek yorug‘ yuzli, nurli, chiroyli, latofatli va suluv qiz. Tolei yulduzdek yuksak va iqboli porloq, hayoti nurga to‘la bo‘lsin. O‘zbekcha."
+  },
+  {
+    "name": "Zaynab",
+    "translation": "to‘lachadan kelgan, semiz, durkun; kelishgan, go‘zal. Zaynab nomi Payg‘ambarimiz Muhammad (s.a.v.) qizlarining ismi bo‘lgan. Arabcha."
+  },
+  { "name": "Zaynura", "translation": "go‘zal, zebo qiz. Arabcha." },
+  {
+    "name": "Zamira",
+    "translation": "oliyjanob, vijdonli, pokdomon, iboli, ifffatli, pokiza qiz. Arabcha."
+  },
+  {
+    "name": "Zarina",
+    "translation": "zarli, oltinli, zarlangan, zarrin, chiroyli, go‘zal, ko‘z qamashtiruvchi husn sohibasi, suluv qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Zarnigor",
+    "translation": "tilloga bezangan, zeblangan, bebaho, qadri baland, zarrin yoki sochlari tillodek jilvali, tovlanib turuvchi, chiroyli, maftunkor qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Zarifa",
+    "translation": "pokiza, ma’suma, iffatli, nozik ta’b, fahm-farosatli, aqlli, oriyatli, hayo-iboli, munis, xushfahm qiz. Arabcha."
+  },
+  {
+    "name": "Zaxro",
+    "translation": "yorqin, ravshan, oq yuzli. Nurli, porloq, nur taratuvchi yoki intiluvchi, havas qiluvchi, oldinga intiluvchi. Arabcha."
+  },
+  {
+    "name": "Zebiniso",
+    "translation": "ayollarning eng go‘zali, zebosi, zebu-ziynati, latofati, jozibali, maftun qiluvchi, o‘ziga rom etuvchi chiroyda teng yo‘q qiz.  Arabcha, fors-tojikcha."
+  },
+  {
+    "name": "Zebo",
+    "translation": "chiroyli, go‘zal, suluv, husni jamoli nafis qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Zulfiya",
+    "translation": "sochi o‘ralib tug‘ilgan, jingalak, jilvakor sochli qiz, suluv, latofatli, maftunkor zebo. Fors-tojikcha."
+  },
+  {
+    "name": "Ziyoda",
+    "translation": "qizlari yetarli (ziyoda) bo‘ldi, endigisi o‘g‘il bo‘lsin yoki umri ziyoda, uzun bo‘lsin, baxtli bo‘lsin. Badanda ortiqcha belgisi, ortig‘i bo‘lsa ham bu ism qo‘yiladi. Arabcha."
+  },
+  {
+    "name": "Zilola",
+    "translation": "tiniq buloq suvidek pokiza, sof, toza, beg‘ubor oqila qiz. Arabcha."
+  },
+  {
+    "name": "Zinnura",
+    "translation": "nurli, ravshan, chiroyli, dilbar qiz. Arabcha."
+  },
+  {
+    "name": "Ziroat",
+    "translation": "hosil, hosila. Mo‘l-ko‘lchilik, qut-baraka olib keluvchi qiz. Arabcha."
+  },
+  {
+    "name": "Zoxida",
+    "translation": "dindor, xudojo‘y, mo‘mina ayol. Arabcha."
+  },
+  {
+    "name": "Zulayxo",
+    "translation": "kichik, kenja qiz. Ism ma’nosi turli ko‘rinishda keladi. Ba’zilar sirg‘anchiq, silliq, muloyim deb ham talqin qilishgan. Yusuf payg‘ambarning ayollarining ismi bo‘lgan. Arabcha."
+  },
+  {
+    "name": "Zulxumor",
+    "translation": "xumorli, qo‘msalgan, orziqib, intizor bo‘lib kutilgan qiz yoki dilbar, maftunkor, jozibali, ishvali, o‘ziga rom etuvchi. Arabcha."
+  },
+  {
+    "name": "Zumrad",
+    "translation": "yashil tusli qimmatbaho tosh, zumraddek qimmatli, bebaho, noyob, zebo, latofatli, suluv qiz yoki ko‘k ko‘zli qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Shaxzoda",
+    "translation": "shoh farzandi, shohlar nasliga mansub qiz. Yuqori martabali, mehribon, ko‘ngli toza obro‘-e’tiborli bo‘lsin. Fors-tojikcha."
+  },
+  {
+    "name": "Shaxina",
+    "translation": "shohlar avlodi vakillaridek mard, jasur, ziyrak, dovyurak, qo‘rqmas qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Shaxlo",
+    "translation": "katta qora ko‘zli qiz, qora ko‘zli go‘zal, chiroyli, suluv, maftunkor qiz. Arabcha."
+  },
+  {
+    "name": "Shaxnoza",
+    "translation": "shohona, beklarcha yoki nozli karashmali, latofatli. Shohlar, aslzodalar avlodiga mansub nozik va zebo go‘zal qiz. Fors-tojikcha."
+  },
+  {
+    "name": "Shaxrizoda",
+    "translation": "shohlar, aslzodalar nasliga mansub ko‘rkam, chiroyli qomatli qiz; podshohzoda, shohzoda, viqorli. Fors-tojikcha."
+  },
+  {
+    "name": "Shirin",
+    "translation": "totli, chuchuk, lazzatli. Aziz, yoqimli, suyukli. Fors-tojikcha."
+  },
+  {
+    "name": "Shodiya",
+    "translation": "shodon, quvnoq, baxtiyor qiz. Shodlik, xursandchilik kuni tug‘ilgan qiz. Odamlarga shodlik olib keluvchi. Fors-tojikcha."
+  },
+  {
+    "name": "Shoira",
+    "translation": "so‘zga chechan, shirinsuxan, notiqa qiz bo‘lsin. Ulg‘ayib shoira bo‘lib she’rlar ijod qilsin ma’nosida. Forscha Shaere"
+  },
+  {
+    "name": "Abdulaziz",
+    "translation": "buyuk va qudratli Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abdulazim",
+    "translation": "izzat va kuch-qudrat sohibi bo‘lgan g‘olib Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abdulahad",
+    "translation": "yakkayu-yagona bo‘lgan Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abdulboriy",
+    "translation": "yo‘qdan bor qiluvchi, yaratuvchi Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abdulvali",
+    "translation": "do‘st, madadkor Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abdulvahhob",
+    "translation": "barcha uchun o‘z ne’matlarini tekin ato etuvchi Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abdulvohid",
+    "translation": "bitta, yagona tanho bo‘lgan Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abdulg‘ani",
+    "translation": "boy, ehtiyojsiz, ya’ni Allohning quli. Arabcha"
+  },
+  {
+    "name": "Abdulg‘afur",
+    "translation": "gunohlarni yashirib, jazo bermay turuvchining, ya’ni Alloh Taoloning quli, bandasi. Arabcha"
+  },
+  {
+    "name": "Abdulg‘affor",
+    "translation": "gunohlarni yashirib, jazo bermay turuvchining, ya’ni Alloh Taoloning quli, bandasi. Arabcha"
+  },
+  {
+    "name": "Abduljabbor",
+    "translation": "bandalarining ishlarini isloh qiluvchi Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abduljalil",
+    "translation": "barcha jihatdan mukammal va go‘zal ulug‘ Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abdulkarim",
+    "translation": "karim qiluvchi, saxovat ko‘rsatuvchi va bandalarining gunohlarini kechiruvchi, avf etuvchi Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abdulqahhor",
+    "translation": "barchani bo‘ysinduruvchi g‘olibning, ya’ni Allohning quli. Arabcha"
+  },
+  {
+    "name": "Abdulqodir",
+    "translation": "mislsiz kuch-qudrat egasining, ya’ni Allohning quli. Arabcha"
+  },
+  {
+    "name": "Abdullatif",
+    "translation": "lutfu ehson, cheksiz marhamatlar sohibi bo‘lgan Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abdulloh",
+    "translation": "Allohning quli, suyukli bandasi. Muhammad (s.a.v.)ning otalarining ismi. Arabcha"
+  },
+  {
+    "name": "Abdulmalik",
+    "translation": "molikning, podshohning, ya’ni Allohning quli, itoatkor bandasi. Arabcha"
+  },
+  {
+    "name": "Abdulfattoh",
+    "translation": "hukm etuvchining yoki rahmat xazinalarini ochuvchi va unga yo‘l ko‘rsatuvchining, ya’ni Allohning quli; doimo g‘olib va muzaffarning quli. Arabcha"
+  },
+  {
+    "name": "Abdulholiq",
+    "translation": "yaratuvchining, dunyoga keltiruvchining, ya’ni Allohning quli. Arabcha"
+  },
+  {
+    "name": "Abdulhay",
+    "translation": "abadiy tirik Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abdulhakim",
+    "translation": "tengsiz aql va hikmat sohibining, ya’ni Allohning quli. Arabcha"
+  },
+  {
+    "name": "Abdulxamid",
+    "translation": "hamdu sanoga, maqtovga sazovor Zotning, ya’ni Allohning quli. Arabcha"
+  },
+  {
+    "name": "Abdulhafiz",
+    "translation": "o‘z panohida saqlaguvchining, ya’ni Allohning quli. Arabcha"
+  },
+  {
+    "name": "Abdulmajid",
+    "translation": "ne’matli va sharafi bepayonning, ya’ni Allohning quli. Arabcha"
+  },
+  {
+    "name": "Abdurrazzoq",
+    "translation": "barcha tirik mavjudodga rizq beruvchi Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abdurrauf",
+    "translation": "o‘ta mehribon, muruvvati cheksiz, ya’ni Allohning quli. Arabcha"
+  },
+  { "name": "Abdurrahiym", "translation": "rahmli Allohning bandasi. Arabcha" },
+  {
+    "name": "Abdurrahmon",
+    "translation": "o‘ta mehribon Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abdurrashid",
+    "translation": "barcha ishlari to‘g‘ri chiquvchi Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abdussamad",
+    "translation": "hojatbaror Allohning bandasi. Arabcha"
+  },
+  {
+    "name": "Abror",
+    "translation": "pokiza, toza qalbli, solih, taqvodor, iymonli; yaxshi, go‘zal hulq-atvor va fe’l egasi. Arabcha."
+  },
+  {
+    "name": "Abbos",
+    "translation": "qovog‘i soliq, xo‘mraygan, jiddiy. Ba’zi bolalar shu holatda tug‘iladi. Arabcha."
+  },
+  {
+    "name": "Avaz",
+    "translation": "avval turmagan bolalarning o‘rniga, evaziga kelgan bola. Arabcha, fors-tojikcha, o‘zbekcha."
+  },
+  { "name": "Azamat", "translation": "ulug‘, mard, jasur, qudratli. Arabcha." },
+  {
+    "name": "Aziz",
+    "translation": "qadrli, qimmatli, tabarruk, hurmatli yoki qudratli, qimmatli, noyob. Arabcha."
+  },
+  {
+    "name": "Akmal",
+    "translation": "yetuk, barkamol, mukammal va benuqson ma’nosida. Arabcha."
+  },
+  {
+    "name": "Akram",
+    "translation": "eng sahiy, o‘ta karamli, muruvvatli, jo‘mard, qo‘li ochiq, mehribon, hayirli ishlarga polvon, bag‘ri keng. Arabcha."
+  },
+  {
+    "name": "Alisher",
+    "translation": "sherdek jasur, dovyurak bo‘lsin va to‘rtinchi halifa Alidek kuch-qudrat, iymon va zakovat egasi bo‘lsin. Arabcha, Fors-tojikcha."
+  },
+  {
+    "name": "Arslon",
+    "translation": "arslondek ya’ni sherdek qudratli, dovyurak, qo‘rqmas bo‘lsin. O‘zbekcha, tojikcha, tatarcha va boshqalar."
+  },
+  {
+    "name": "Asad",
+    "translation": "Asad oyida tug‘ilgan bola yoki Sherdek qudratli, qo‘rqmas, dovyurak bo‘lsin. Arabcha."
+  },
+  {
+    "name": "Asadulloh",
+    "translation": "Allohning sherdek qudratli, dovyurak, jasur bandasi. Arabcha."
+  },
+  {
+    "name": "Asilbek",
+    "translation": "beklar avlodiga mansub aslzoda bola. Arabcha, o‘zbekcha."
+  },
+  { "name": "A’zam", "translation": "buyuk, qudratli, yengilmas. Arabcha." },
+  {
+    "name": "Anas",
+    "translation": "do‘st, yo‘ldosh, hamroh yoki shodlik, quvonch. Arabcha."
+  },
+  {
+    "name": "Ansor",
+    "translation": "yordamchi, maslakdosh. Bu yerda payg‘ambarga ko‘makdosh bo‘lganlar ko‘zda tutiladi. Arabcha."
+  },
+  {
+    "name": "Asomiddin",
+    "translation": "dinning tutqichi, tayanchi yoki dinning ko‘magi, madadi. Arabcha."
+  },
+  {
+    "name": "Anvar",
+    "translation": "yorug‘, nurli, charog‘on yoki iqboli porloq, tolei baland, hayotda omadli bola. Arabcha."
+  },
+  { "name": "Amir", "translation": "hokim, hukmron, yo‘lboshchi yoki Amr" },
+  {
+    "name": "Ali",
+    "translation": "yuksak, ulug‘, oliy, yuqori martabali. Bu nom Muhammad(s.a.v.) payg‘ambarimizning kuyovi, to‘rtinchi xalifaning ismidir. Arabcha."
+  },
+  { "name": "Afif", "translation": "pokiza, sahovatli. Arabcha." },
+  {
+    "name": "Ahror",
+    "translation": "oliyjanob, himmatli, mehr-muruvatli, Hojai Ahror"
+  },
+  {
+    "name": "Ahmad",
+    "translation": "Allohga ko‘p hamdu-sanolar aytuvchi kishi, maqtovga, olqishga sazovor. Bu nom Muhammmad (s.a.v.) sifatlaridan biridir. Arabcha."
+  },
+  {
+    "name": "Adham",
+    "translation": "qora ot; badanida qora belgisi (hol) bilan tug‘ilgan bola yoki qimmatli, noyob, kam uchraydigan. Arabcha."
+  },
+  {
+    "name": "Akif",
+    "translation": "g‘ayratli, tirishqoq yoki zohid, darvesh, tarkidunyochi. Ba’zi adabiyotlarda “turg‘un barqaror, mahkam“ deb izohlangani ham uchraydi. Arabcha."
+  },
+  {
+    "name": "Anis",
+    "translation": "yaqin do‘st, ulfat, hamdam, hamsuhbat. Arabcha."
+  },
+  {
+    "name": "Atif",
+    "translation": "mehribon, oqko‘ngil; muruvvatli, shafqatli. Arabcha."
+  },
+  {
+    "name": "Afzal",
+    "translation": "ustun turuvchi, munosib, loyiq; qadrli, hurmatli. Arabcha."
+  },
+  {
+    "name": "Afzun",
+    "translation": "ortiq, ziyoda baland martabali; ko‘payib, ortib boruvchi. Fors-tojikcha."
+  },
+  {
+    "name": "Ahbor",
+    "translation": "xabarlar, ma’lumotlar, bilimlar egasi. Arabcha."
+  },
+  {
+    "name": "Ashraf",
+    "translation": "sharafli, ehtiromli, oliy zot yoki aslzoda, avliyo, oliy tabaqa, yuqori nasab farzandi. Arabcha."
+  },
+  {
+    "name": "Bahodir",
+    "translation": "botir, dovyurak, mard, jasur. O‘zbekcha, fors-tojikcha."
+  },
+  {
+    "name": "Bobur",
+    "translation": "yo‘lbars, arslon; Ulug‘, ulkan, buyuk; Tez gapiradigan odam ma’nolarida talqin qilingan. O‘zbekcha."
+  },
+  { "name": "Botir", "translation": "mard, jasur, qo‘rqmas. O‘zbekcha." },
+  {
+    "name": "Badriddin",
+    "translation": "dinning to‘lin oyi va nuri, mash’ali. Dinning asl farzandi. Boshqa mo‘minlarga o‘rnak bo‘luvchi xulqi yaxshi, niyati pok inson. Arabcha."
+  },
+  {
+    "name": "Bahriddin",
+    "translation": "dinning nuri, yog‘dusi, shu’lasi, dinning viqori, shukuhi yoki dinning nurli, e’tiqodli, iymonli, saodatmand kishisi. Arabcha."
+  },
+  {
+    "name": "Bahtiyor",
+    "translation": "saodat, qut, istiqbol yor bo‘lgan bola yoki shodon, quvnoq. Baxt-saodat, quvonch yor bo‘lsin. Arabcha, fors-tojikcha."
+  },
+  {
+    "name": "Bahrom",
+    "translation": "Mirrih (Mars) sayyorasining nomidan. U baxt-saodat timsoli hisoblanadi yoki bahromdek (qadimgi Eron shohlaridan biri) mard, jasur bo‘lsin. Fors-tojikcha."
+  },
+  {
+    "name": "Behruz",
+    "translation": "baxtli saodatli kunda, shodiyonada tug‘ilgan bola yoki bu bola tug‘ilgan kun oilaga, yaqinlariga quvonch, shodlik olib kelgan. Fors-tojikcha."
+  },
+  {
+    "name": "Bekzod",
+    "translation": "bek farzandi, beklar avlodiga, zotiga mansub bola. Viqorli, kuchli, mard bo‘lsin. O‘zbekcha, fors-tojikcha."
+  },
+  {
+    "name": "Bahtbek",
+    "translation": "beklar avlodiga mansub baxtli, saodatli bola ma’nosida. Forscha, qozog‘cha."
+  },
+  {
+    "name": "Boymurod",
+    "translation": "boy-badavlat bola, ulg‘ayib murodiga yetsin. Arabcha, o‘zbekcha."
+  },
+  {
+    "name": "Bekmurod",
+    "translation": "beklar avlodiga mansub murod-maqsadli bola berk (mustahkam) bo‘lsin va ulg‘ayib murod-maqsadiga yetsin. Arabcha, o‘zbekcha."
+  },
+  {
+    "name": "Bilol",
+    "translation": "uch kunlik oy, yangi tug‘ilgan oy, (Hilol) yoki sog‘lom bola. Payg‘ambar Muhammad (s.a.v.) ning sahobalaridan biri bo‘lgan. Arabcha."
+  },
+  {
+    "name": "Burhon",
+    "translation": "dalil, asos, isbot. O‘rta asrlar hukmdorlari o‘zlarini Burhoniddin, ya’ni dinning dalili, himoyachisi, dinni asrovchi deb yuritishgan va bu so‘z ularning fahriy unvoni bo‘lgan. Burhoniddin ismining qisqargan shakli. Arabcha."
+  },
+  {
+    "name": "Davron",
+    "translation": "davr sursin, umri shodon, baxtiyor o‘tsin, davrining, zamonasining baxtiyor farzandi bo‘lsin ma’nosida. Arabcha."
+  },
+  {
+    "name": "Dilmurod",
+    "translation": "dildagi murodga, orzuga yetkazgan bola. Arabcha, fors-tojikcha."
+  },
+  {
+    "name": "Diyor",
+    "translation": "o‘lka, ona yurt, vatan farzandi, diyoriga, eliga vafodor. Vatani uchun jonini fido qilishga tayyor bo‘lsin. Arabcha."
+  },
+  {
+    "name": "Dovud",
+    "translation": "mehrli, mehribon, dildan sevuvchi, suyukli, chin do‘st yoki shifo beruvchi, sog‘aytiruvchi. Dovud payg‘ambarning ismlari. Yahudiycha."
+  },
+  {
+    "name": "Doniyor",
+    "translation": "yaqin inson, bilimli inson, do‘st, Allohning ehsoni, sovg‘asi, marxamati. Arabcha, fors-tojikcha."
+  },
+  {
+    "name": "Doston",
+    "translation": "dovrug‘i tillarda doston bo‘lgan, taniqli, mashhur. Bu nom Rustamning otasi Zolning (Firdavsiyning «Shohnoma» dostoni qahramoni) laqabi bo‘lgan. Fors-tojikcha."
+  },
+  {
+    "name": "Erkin",
+    "translation": "hur, ozod, erkin, mustaqil, hech kimga qaram yoki to’be bo‘lmagan bola. O‘zbekcha."
+  },
+  {
+    "name": "Elbek",
+    "translation": "elning boshlig‘i, sardori, yo‘lboshchisi. O‘zbekcha."
+  },
+  {
+    "name": "Eldor",
+    "translation": "ulg‘ayib yuqori martabalar egasi, elning yo‘lboshchisi, rahnamosi, hukmdori, yetakchisi bo‘lsin. O‘zbekcha, fors-tojikcha."
+  },
+  {
+    "name": "Elmurod",
+    "translation": "o‘z elining orzusi, umidi bo‘lgan bola, elini orzu-murodiga erishtirsin. Arabcha, o‘zbekcha."
+  },
+  {
+    "name": "Elnur",
+    "translation": "elga nur sochuvchi, foyda keltiruvchi, vatani rivojiga katta hissa qo‘shuvchi, elparvar. Arabcha, o‘zbekcha."
+  },
+  {
+    "name": "Elyor",
+    "translation": "elning dusti, hamdami, vatanparvar. O‘zbekcha, fors-tojikcha."
+  },
+  {
+    "name": "Fazliddin",
+    "translation": "dinning yuksakligi, yoki dinning marhamati, in’omi, tuhfasi, fazliga yetishganligi. Arabcha."
+  },
+  {
+    "name": "Fahriddin",
+    "translation": "dinning faxri, iftixori, shavkati, shoniu-sharafi, g‘ururi. Arabcha."
+  },
+  {
+    "name": "Farruh",
+    "translation": "baxtiyor, yuzidan nur yog‘iluvchi, ochiq chehrali, chiroyli ko‘rkam. Fors-tojikcha."
+  },
+  {
+    "name": "Fayzbek",
+    "translation": "beklar avlodiga mansub fayz-barakali, omadli, saxovatli bola ma’nosida. O‘zbekcha."
+  },
+  {
+    "name": "Fozil",
+    "translation": "bilimdon, dono, zukko, donishmand. Fozil"
+  },
+  {
+    "name": "Fayziddin",
+    "translation": "dinga foyda, yaxshilik, fayz keltiruvchi bola yoki dinning muruvvati, shafqati. Arabcha."
+  },
+  {
+    "name": "Farhod",
+    "translation": "aqlli, zukko, fahm-farosatli, dono yigit. Alisher Navoiyning “Farhod va Shirin” asari qahramoni Farhoddek tog‘ni talqon qiluvchi bo‘lsin. Fors-tojikcha."
+  },
+  {
+    "name": "Firdavs",
+    "translation": "jannat bog‘i, jannat, sakkizinchi jannat nomi. Fors-tojikcha."
+  },
+  {
+    "name": "Fitrat",
+    "translation": "tabiiy, tug‘ma; aqlu farosatli, aqlli, dono. Arabcha."
+  },
+  { "name": "Fotih", "translation": "g‘olib, muzaffar; jasur, mard. Arabcha." },
+  {
+    "name": "G‘afur",
+    "translation": "rahmdil, marhamatli, mag‘firatli. Bu nom Allohning sifatlaridan birdir. Asli: Abdulg‘afur. Arabcha."
+  },
+  {
+    "name": "G‘affor",
+    "translation": "rahmdil, mehribon, shafqatli. Bu nom Allohning sifatlaridan biridir. Asli: Abdulg‘affor. Arabcha."
+  },
+  {
+    "name": "G‘iyos",
+    "translation": "yordam, ko‘mak, suyanch; yordamchi, suyanchiq, ishongan tog‘, qo‘llovchi, ko‘maklashuvchi. Arabcha."
+  },
+  {
+    "name": "G‘ulom",
+    "translation": "o‘tmishda hukmronlar saroyidagi yosh xizmatkor; «G‘ulom» so‘zi bilan boshlangan qator qo‘shma ismlarning (G‘ulomali, G‘ulomiddin) qisqargan shakli. Arabcha."
+  },
+  {
+    "name": "Halil",
+    "translation": "suyukli, aziz, qadrdon, sodiq do‘st; vafodor, sirdosh. Shakllari: Xalilbek, Xalilboy, Xaliljon. Arabcha."
+  },
+  {
+    "name": "Habib",
+    "translation": "suyukli, qadrdon, g‘amxo‘r do‘st. Asli Habibulloh. Allohning suyuklisi va do‘sti. Bu nom Muhammad (s.a.v.) ning sifatlaridan biridir. Arabcha."
+  },
+  {
+    "name": "Hamdam",
+    "translation": "o‘rtoq, sodiq, vafodor do‘st. Otasiga, boshqa bolalarga do‘st, esh bo‘lib yursin. Fors-tojikcha."
+  },
+  {
+    "name": "Hayrulloh",
+    "translation": "Allohning xayru saxovati, muruvvati, tuhfasi. Arabcha."
+  },
+  {
+    "name": "Hamza",
+    "translation": "o‘tkir, achchiq, kuydiruvchi, yondiruvchi, chirog‘ yoki dorivor o‘simlik nomi. Bu nom Payg‘ambarimiz Muhammad (s.a.v.) ning tog‘alarining ismi bo‘lgan. Arabcha."
+  },
+  {
+    "name": "Hamid",
+    "translation": "maqtovchi, madh qiluvchi, Allohga hamd-sano aytuvchi, shukr qiluvchi yoki hamid"
+  },
+  {
+    "name": "Hikmat",
+    "translation": "donolik, donishmandlik; mo‘jiza. Badanida qandaydir g‘ayritabiiy, ortiq belgi bilan tug‘ilgan bola. Arabcha."
+  },
+  {
+    "name": "Hoji",
+    "translation": "ziyoratchi, sig‘inuvchi, Hajga borgan, Ka’bani (Makkada) ziyorat qilgan shaxs. Arabcha."
+  },
+  {
+    "name": "Hojimurod",
+    "translation": "ulg‘ayib hoji bo‘lsin, murod-maqsadiga yetsin. Arabcha."
+  },
+  {
+    "name": "Hurram",
+    "translation": "hamisha shod-hurram, shodon, hayotdan baxra oluvchi, doim kulib turuvchi. Fors-tojikcha."
+  },
+  {
+    "name": "Ibodulloh",
+    "translation": "Allohning qullari, bandalari, mo‘minlari. Arabcha"
+  },
+  {
+    "name": "Iskandar",
+    "translation": "mard, qo‘rqmas, dovyurak, azamat, pahlavon, jasurlarning sardori yoki himoya qiluvchi, asrovchi, muhofazakor. Buyuk sarakarda Iskandardek bo‘lsin ma’nosida qo‘yiladi. Yunoncha, o‘zbekcha."
+  },
+  {
+    "name": "Iqbol",
+    "translation": "baxtu saodat, porloq kelajak, yorqin hayot. Arabcha."
+  },
+  {
+    "name": "Islom",
+    "translation": "o‘zini Allohning ixtiyoriga topshirish, itoatkor. Islomga bo‘ysungan. Mo‘min. musulmon. Payg‘ambarimiz Muhammad (s.a.v.) olib kelgan din nomi. Arabcha."
+  },
+  {
+    "name": "Isroil",
+    "translation": "Alloh yo‘lida kurashuvchi, Allohga itoat qiluvchi. Islomda Azroil o‘lim farishtasi bo‘lib, to‘rtta asosiy farishtalardan biridir Ular: Jabroil, Mikoil, Isrofil, Azroil. Yahudiycha."
+  },
+  { "name": "Ibrohim", "translation": "xalqlarning otasi. Yahudiycha." },
+  {
+    "name": "Izzat",
+    "translation": "hurmat, e’tibor, ikrom, e’tirof, ehtirom, qadr-qimmat, mehru muruvvat sohibi. Arabcha."
+  },
+  {
+    "name": "Izzatulloh",
+    "translation": "Allohning kuchi, qudrati, shonu shavkati, izzat-ikromga sazovor, hurmatli yoki Allohning hurmatli bandasi. Arabcha."
+  },
+  {
+    "name": "Imron",
+    "translation": "tiriklik, barhayotlik, boqiylik, uzoq umr ko‘ruvchi, ko‘p yashovchi. Qur’onda Maryamning otasining ismi hamda Isoning bobosining nomi bo‘lgan. Arabcha."
+  },
+  {
+    "name": "Ihtiyor",
+    "translation": "ixityori, erki o‘zida, xur, ozod, hech kimga qaram bo‘lmagan, o‘ziga xon, o‘ziga bek. Arabcha."
+  },
+  {
+    "name": "Ikrom",
+    "translation": "izzat, ehtirom, obro‘, martaba, hurmat yoki sovg‘a, tuhfa, hadya. Arabcha."
+  },
+  {
+    "name": "Ilyos",
+    "translation": "Allohning kuchi, qudrati yoki xalqlarning sevimligi, kishilarni qadrlovchi, e’zozlovchi odam. Obihayot ichib, Hizr kabi mangu tirik deb faraz qilinadigan payg‘ambarning nomi. Quruqda Hizr bo‘lsa, suvda Ilyos kishilarning madadkori, hamrohi deb hisoblangan. Arabcha."
+  },
+  {
+    "name": "Ismoil",
+    "translation": "«Xudo eshitdi» yoki Allohdan so‘rab olingan, Alloh tuhfa qilgan bola. «Tavrot»dagi rivoyatga ko‘ra, Ibrohim payg‘ambarning xotini Hojar Allohdan farzand so‘rab iltijo qilgan. Shu tufayli tug‘ilgan bolaga Ismael(Ismoil) deb ism berilgan. Bu nom Payg‘ambarimiz Muhammad (s.a.v.) o‘g‘illarining ismi bo‘lgan. Yahudiycha."
+  },
+  {
+    "name": "Javlon",
+    "translation": "chiroyli va shahdam qadamlar tashlovchi, harakatchan, chaqqon, tezkor, javlon uruvchi, jo‘shib toshuvchi. Arabcha."
+  },
+  {
+    "name": "Javohir",
+    "translation": "qimmatbaho toshlar, zebu-ziynatlar egasi, boy-badavlat bo‘lsin yoki javohir toshidek bebaho, qimmatli ma’nosida. Arabcha."
+  },
+  { "name": "Jalol", "translation": "ulug‘, buyuk, ko‘rkam. Arabcha." },
+  {
+    "name": "Jaloliddin",
+    "translation": "dinning ulug‘vorligi yoki dinning yuksak farzandi. Arabcha."
+  },
+  {
+    "name": "Jamol",
+    "translation": "chiroyli, nafosatli, hushro‘y, ko‘rkam bola. Eht: Jamol- tuyakash, tuyalarni yetaklovchi. Arabcha."
+  },
+  {
+    "name": "Jamshid",
+    "translation": "ulug‘, buyuk, qudratli. Fors-tojikcha."
+  },
+  { "name": "Jasur", "translation": "dovyurak, qurqmas, jasoratli. Arabcha." },
+  {
+    "name": "Jahongir",
+    "translation": "olamni bo‘ysundiruvchi, fath etuvchi, g‘olib, muzaffar. Fors-tojikcha."
+  },
+  {
+    "name": "Jo‘rabek",
+    "translation": "dustlikni qadrlovchi, ulfat, juralarni beki, do‘stlari, jo‘ralari ko‘p bo‘lsin. O‘zbekcha."
+  },
+  {
+    "name": "Kamol",
+    "translation": "yetuk, mukammal, nuqsonsiz, bekamu-ko‘st. Arabcha."
+  },
+  {
+    "name": "Kamoliddin",
+    "translation": "dinning ravnaqi, kamoloti, yetukligi yoki dinning kamolga yetgan, yetuk bo‘lgan farzandi. Arabcha."
+  },
+  {
+    "name": "Komil",
+    "translation": "yetuk, barkamol, kam-ko‘stsiz, benuqson, mukammal; aqilli, donishmand. Bu nom Payg‘ambarimiz Muhammad (s.a.v.)ning sifatlaridan biri bo‘lgan. Arabcha."
+  },
+  {
+    "name": "Komron",
+    "translation": "baxtli, saodatli; maqsadiga erushuvchi; kuchli, qudratli, omadli, tolei porloq. Fors-tojikcha."
+  },
+  {
+    "name": "Kozim",
+    "translation": "sabrli, toqatli, vazmin, og‘ir-bosiq; g‘azabdan o‘zini tutib tura oluvchi, jahlini boshqara oluvchi. Bu nom shiitlar imomi Musoning laqabi ham bo‘lgan. Arabcha."
+  },
+  { "name": "Kubad", "translation": "hukmron, podshoh. Fors-tojikcha." },
+  {
+    "name": "Laziz",
+    "translation": "yoqimtoy, shirin, aqlli, xushchaqchaq, ko‘pchilikka hush keladigan bola. Arabcha."
+  },
+  {
+    "name": "Lochin",
+    "translation": "lochindek ziyrak, dovyurak, chaqqon, tezkor bola yoki lochin urug‘iga mansub bola. O‘zbekcha."
+  },
+  {
+    "name": "Lutfulloh",
+    "translation": "Allohning lutfu ehsoni, muruvvati, marhamati, tuhfasi. Arabcha."
+  },
+  {
+    "name": "Lutfi",
+    "translation": "iltifot, mehribonlik; nazokat, nafosat. Arabcha."
+  },
+  { "name": "Mabruk", "translation": "ko‘ngilga yaqin, xayrixoh. Arabcha." },
+  { "name": "Mavdud", "translation": "qadrli, suyukli. Arabcha." },
+  {
+    "name": "Mavlon",
+    "translation": "ustoz, valine’mat, muruvvat, yaxshilik qiluvchi. Mavlon"
+  },
+  { "name": "Madid", "translation": "uzoq yashovchi, umri uzoq. Arabcha." },
+  {
+    "name": "Mazbut",
+    "translation": "mahkam, mustahkam, himoya ostiga olingan. Arabcha."
+  },
+  {
+    "name": "Mansur",
+    "translation": "g‘olib, peshqadam, sarkarda, yo‘lboshchi, yengilmas. Arabcha."
+  },
+  {
+    "name": "Mardon",
+    "translation": "botir, dovyurak, mard, azamat. Fors-tojikcha."
+  },
+  {
+    "name": "Maqsud",
+    "translation": "hohlangan, istalgan, orzu qilingan, umid qilib kutilgan bola. Arabcha."
+  },
+  {
+    "name": "Mahan",
+    "translation": "eng go‘zal, eng suluv, tengsiz husn sohibi. Arabcha."
+  },
+  {
+    "name": "Mahrus",
+    "translation": "saqlanuvchi, himoya qilinuvchi, himoya ostiga olingan. Arabcha."
+  },
+  {
+    "name": "Mahmud",
+    "translation": "maqtalgan, maqtovga sazovor, dongdor, atoqli. Muhammad (s.a.v.)ning sifatlaridan biri. Arabcha."
+  },
+  { "name": "Mahzan", "translation": "boylik, xazina, g‘azna, ganj. Arabcha" },
+  { "name": "Ma’sud", "translation": "baxtli, baxtiyor, saodatmand. Arabcha." },
+  {
+    "name": "Ma’mur",
+    "translation": "boshqaruvchi, yetkachi, yo‘l ko‘rsatuvchi, (ma’muriyat"
+  },
+  {
+    "name": "Mirdas",
+    "translation": "baland martabali va yoshdek mustahkam. Arabcha, o‘zbekcha."
+  },
+  {
+    "name": "Mirziyo",
+    "translation": "ulug‘ martabali o‘g‘ilning umri nurga (baxtga) to‘la bo‘lsin, ziyo tarqatuvchi. Arabcha."
+  },
+  {
+    "name": "Miron, Miran",
+    "translation": "amirlarning sardori, rahbari, yetakchi, yuqori turuvchi, oliy nasab. Arabcha."
+  },
+  {
+    "name": "Mohir",
+    "translation": "ustamon, bilag‘on, qobiliyatli, har ishga mohir, o‘z ishining ustasi. Arabcha."
+  },
+  {
+    "name": "Ma’ruf",
+    "translation": "taniqli, mashhur, atoqli, el bilgan, nomi chiqqan, ko‘zga yaqin yoki kunbotar, shom paytida dunyoga kelgan bola. Arabcha."
+  },
+  {
+    "name": "Murod",
+    "translation": "murod-maqsadli yoki orzu qilingan, qo‘msalgan bola. Ulg‘ayib murod-maqsadiga yetsin. Arabcha."
+  },
+  {
+    "name": "Muzaffar",
+    "translation": "yenguvchi, g‘olib, zafar qozonuvchi: shuhratli, xushbaxt, omadli. Arabcha."
+  },
+  {
+    "name": "Musulmon",
+    "translation": "Islom diniga e’tiqod qiluvchi; islom diniga bo‘ysunuvchi; xudojo‘y, Allohning sodiq quli. Arabcha."
+  },
+  {
+    "name": "Mufiz",
+    "translation": "fayz, baraka, muvaffaqiyat keltiruvchi. Arabcha."
+  },
+  {
+    "name": "Muhsin",
+    "translation": "karamli, marhamatli, mehribon. Arabcha."
+  },
+  {
+    "name": "Muhammad",
+    "translation": "maqtovga, olqishlarga sazovor. Payg‘ambarimiz Muhammad sollallohu alayhi vasallamning (Muhammad ibn Abdulloh, 570 yoki 571 Makka"
+  },
+  {
+    "name": "Muhtor",
+    "translation": "tanlangan, saylangan, saralab olingan yoki o‘z erki o‘zida bo‘lgan, hur, mustaqil, tobe bo‘lmagan, qaramligi yo‘q. Arabcha."
+  },
+  {
+    "name": "Munif",
+    "translation": "baland, martabali, baxtli, tolei baland. Arabcha."
+  },
+  {
+    "name": "Mustafo",
+    "translation": "tanlangan, saralab olingan, dovyurak. Bu nom Muhammad(s.a.v.)ning siyratlaridan biridir. Arabcha."
+  },
+  {
+    "name": "Mo‘min",
+    "translation": "dinga sodiqligini til va iqror bilan hamda qalban tasdiqlovchi, imonli, xudojo‘y, mo‘min nomi Allohning sifatlaridan biri bo‘lib, bandalarini asrovchi; ular xavfsizligini ta’minlovchi ma’nolarini anglatadi. Arabcha."
+  },
+  {
+    "name": "Nazrulloh",
+    "translation": "Allohga nazr qilingan, bag‘ishlangan bola. Arabcha."
+  },
+  {
+    "name": "Nazif",
+    "translation": "pokiza, ozoda; beg‘ubor, begunoh. Arabcha."
+  },
+  {
+    "name": "Narimon",
+    "translation": "qo‘rqmas, botir, dovyurak, jasur, mard, bukilmas irodali, kuch-qudratli, azamat. Arabcha, fors-tojikcha."
+  },
+  {
+    "name": "Najmiddin",
+    "translation": "dinning yulduzi, yorug‘ligi, iqboli porloq kishisi. Arabcha."
+  },
+  {
+    "name": "Nasriddin",
+    "translation": "dinning g‘olibi, dinning zafari yoki dinning ko‘magi, yordami tufayli erishilgan bola. Arabcha."
+  },
+  {
+    "name": "Ne’matulloh",
+    "translation": "Allohning saxovati, marhamati, ne’mati. Arabcha."
+  },
+  {
+    "name": "Nosir, Nosirjon",
+    "translation": "yordamchi, ko‘makchi, suyanchiq, madadkor yoki g‘olib, muzaffar, muvaffaqiyat qozonuvchi. Bu nom Muhammad (s.a.v.) sifatlaridan biridir. Arabcha."
+  },
+  {
+    "name": "Nuriddin",
+    "translation": "dinning yog‘dusi, ziyosi, din ma’shali, yorug‘ligi, porloq nuri. Arabcha."
+  },
+  {
+    "name": "Nusratulloh",
+    "translation": "Allohning yordami, ko‘magi; Allohning himmati, muruvvati yoki Alloh bergan baxt, omad. Arabcha."
+  },
+  {
+    "name": "Nusrat",
+    "translation": "yordam beruvchi, ko‘makchi yoki g‘olib, muzaffar, peshqadam. Arabcha."
+  },
+  {
+    "name": "Nurbek",
+    "translation": "beklar naslidan bo‘lgan tolei baland, iqboli porloq, yuksaklarga intiluvchi, hayot yo‘li yorug‘ bo‘lgan bola. Arabcha, o‘zbekcha."
+  },
+  {
+    "name": "Nizom",
+    "translation": "tartibli, intizomli, odobli o‘g‘il bo‘lsin yoki marvarid shodasidek qimmatli, nodir. Arabcha."
+  },
+  {
+    "name": "Nizomiddin",
+    "translation": "dinning tartib-qoidalari; dinning bebaho va muqaddasligi yoki dinni tartibga soluvchi. Arabcha."
+  },
+  {
+    "name": "Nurlan",
+    "translation": "nurga, baxt-iqbolga to‘la bo‘lsin degan ma’noda. Arabcha."
+  },
+  {
+    "name": "Obid",
+    "translation": "toat-ibodat qiluvchi, taqvodor, dindor, Allohga sig‘inuvchi, unga ibodat qiluvchi, osiy bo‘lmagan mo‘min banda. Arabcha."
+  },
+  {
+    "name": "Odil",
+    "translation": "haqgo‘y, adolatli, insofli, to‘g‘ri, halol, pokdomon, egrilikni bilmaydigan, odil. Arabcha."
+  },
+  {
+    "name": "Oybek",
+    "translation": "beklar naslidan bo‘lgan omadli, baxtli, oydek porloq bola yoki oybek urug‘i (o‘zbek urug‘laridan biri)ga mansub bola. O‘zbekcha."
+  },
+  {
+    "name": "Ozod",
+    "translation": "erkin, hur, ozod, xursand, baxtiyor yoki ulug‘, salobatli; kasalliklardan holi. Fors-tojikcha."
+  },
+  {
+    "name": "Ozodbek",
+    "translation": "beklar naslidan bo‘lgan hur, baxtiyor, erkin, ozod, saodatmand bola. Fors-tojikcha, o‘zbekcha."
+  },
+  {
+    "name": "Otabek",
+    "translation": "shahzoda, xonzoda, beklar boshlig‘i, yetkachisi, sardori; ilg‘or, obro‘-e’tiborli, nasl-nasabli bola. O‘zbekcha."
+  },
+  {
+    "name": "Olim",
+    "translation": "bilimli, aqlli, donishmand, ziyoli, farosatli, dono, bilguvchi, xabardor, ilm sohibi. Arabcha."
+  },
+  {
+    "name": "Orif",
+    "translation": "ma’rifatli, dono, ilmli, ziyoli, Allohni tanigan xudojo‘y, taqvodor, itoatgo‘y mo‘min. Arabcha."
+  },
+  {
+    "name": "Oqil",
+    "translation": "aqlli, fahm-farosatli, zukko, dono bola. Shakllari: Oqiljon, Oqilxon, Oqilbek. Arabcha."
+  },
+  {
+    "name": "Omad",
+    "translation": "omadli, baxt-saodatli, tol’ei, mavqei baland, yuqori martabali bo‘lsin ma’nosida qo‘yiladi. Arabcha."
+  },
+  {
+    "name": "O‘ktam",
+    "translation": "g‘amxo‘r, mehr-muruvvatli, oqibatli yoki mag‘rur, viqorli, mustaqil, erkin. O‘zbekcha."
+  },
+  {
+    "name": "O‘tkir",
+    "translation": "keskir; mohir, aqlli, zakovatli, o‘tkir. Bilimli, zehnli, ilmli. Dono, ziyrak bola. O‘zbekcha."
+  },
+  {
+    "name": "Qobil",
+    "translation": "iste’dodli, qobiliyatli, kuchli, yoki yuvosh, tarbiya ko‘rgan yohud orzu-tilaklarimiz bajo bo‘lib berilgan bola. Arabcha."
+  },
+  {
+    "name": "Qosim",
+    "translation": "taqsimlovchi. Bu nom Muhammad (s.a.v.) ning o‘g‘illarining ismi bo‘lgan. Arabcha."
+  },
+  {
+    "name": "Qudrat",
+    "translation": "quvvatli, kuchli, qodir. Asli: Qudratulloh. Arabcha."
+  },
+  {
+    "name": "Ramziddin",
+    "translation": "dinning timsoli, ramzi, nishoni; dinga itoatkor, dinni o‘zida gavdalantiruvchi. Arabcha."
+  },
+  { "name": "Rafid", "translation": "yordamchi, ko‘makdosh. Arabcha." },
+  {
+    "name": "Raxmatulloh",
+    "translation": "Allohning muruvvati, shavkati tufayli erishilgan bola, Allohning rahmati, marhamati va iltifotiga sazovor banda. Arabcha."
+  },
+  {
+    "name": "Ravshan",
+    "translation": "yorug‘, nurli, shu’lali, porloq, tiniq, beg‘ubor. Pok, g‘am-g‘ussasiz, charog‘on yoki iqboli porloq, tolei yorqin bola bo‘lsin. Fors-tojikcha."
+  },
+  {
+    "name": "Rahim",
+    "translation": "rahm qiluvchi, mehribon, marhamatli. «Abdul» ya’ni qul qo‘shimchasi qo‘yilishi lozim. Abdulrahim. Bu nom Allohning sifatlaridan biridir. Arabcha."
+  },
+  { "name": "Rajab", "translation": "hijriy yil hisobining yettinchi oyi" },
+  { "name": "Raif", "translation": "mehribon, shafqatli, rahmdil. Arabcha." },
+  {
+    "name": "Rauf",
+    "translation": "rahmdil, yumshoq ko‘ngilli; oliyhimmat, saxiy. Bu nom Allohning sifatlaridan biridir. Sol: Abdurauf. Arabcha."
+  },
+  {
+    "name": "Rashid",
+    "translation": "to‘g‘ri yo‘ldan yuruvchi, to‘g‘ri yo‘l topgan, kamolga yetgan, aqlli, dono yoki qo‘rqmas, mard; boshliq, sardor. Sol: Abdurashid. Arabcha."
+  },
+  {
+    "name": "Rizvon",
+    "translation": "jannat, behisht; jannat eshigini qo‘riqlovchi farishtaning nomi yoki Allohning yoqtirgan bandasi. Arabcha."
+  },
+  {
+    "name": "Rustam",
+    "translation": "«Avesto»dagi Raodastan so‘zidan yasalgan bo‘lib, ulkan gavdali, qudratli, botir, yengilmas, dovyurak, jasur, matonatli, bahodir. Pahlaviycha. Qo‘shimcha ma’lumot: https://uz.wikipedia.org/wiki/Rustam"
+  },
+  {
+    "name": "Sadriddin",
+    "translation": "dinning baland martabali, yuqori mavqega ega rahnamosi, dinning ulug‘ namoyondasi. Arabcha."
+  },
+  {
+    "name": "Saloh",
+    "translation": "ezgulik, yaxshilik, haqqoniylik ma’nosida. Arabcha."
+  },
+  { "name": "Saadi, Sa’di", "translation": "baxtiyor, omadli. Arabcha." },
+  {
+    "name": "Sadar",
+    "translation": "to‘g‘rilik, adolat; munosabat, maqsad. Arabcha."
+  },
+  {
+    "name": "Samandar",
+    "translation": "«Salamandra: o‘tdan paydo bo‘lib, o‘t ichida yashovchi, kalamushsimon, afsonaviy, hayvon (qush) nomi». Samandar o‘sha nomning arabcha shakli. Ism sifatida chidamli, kuchli, irodali, mustahkam, toblangan ya’ni o‘lmaydigan, yashaydigan, umri uzoq bo‘ladigan ma’nolarini bildiradi. Arabcha, yunoncha."
+  },
+  {
+    "name": "Samir",
+    "translation": "suhbatdosh, hamsuhbat, dilkash inson yoki suvsardek qimmatli, qadrli, e’zozli. Arabcha."
+  },
+  {
+    "name": "Safir",
+    "translation": "elchi, vakil yoki ko‘kish rangli yoqut; qimmatli, bebaho yohud yoqimli, maqbul. Arabcha."
+  },
+  {
+    "name": "Safo",
+    "translation": "tiniq, pokiza, ozoda yoki beg‘am, osoyishta; baxtiyor, rohat-farog‘atli; Ka’batullohdagi Safo"
+  },
+  {
+    "name": "Said",
+    "translation": "baxtli, saodatli, omadli, intiluvchan, iqboli porloq, kamolga yetuvchi. Arabcha."
+  },
+  {
+    "name": "Sa’dulloh",
+    "translation": "Alloh bergan baxt, saodat. Allohning baxtli, to’lei baland bandasi. Bu nom Muhammad (s.a.v.) payg‘ambarning sifati bo‘lgan. Arabcha."
+  },
+  {
+    "name": "Sarvar",
+    "translation": "yo‘lboshchi, boshliq, rahnamo, yetakchi, ilg‘or, peshqadam, sardor. Fors-tojikcha."
+  },
+  {
+    "name": "Sardor",
+    "translation": "yetakchi, rahnamo, yo‘lboshchi, boshliq; urug‘ yoki qabila boshlig‘i; lashkar boshlig‘i; qo‘mondon. Fors-tojikcha."
+  },
+  {
+    "name": "Sirojiddin",
+    "translation": "dinning nuri, mash’ali, quyoshi, oftobi. Nurli, porloq, yorqin, chiroyli, zebo. Arabcha."
+  },
+  {
+    "name": "Sodiq",
+    "translation": "sadoqatli, vafodor, rostgo‘y, ishonchli, chin do‘st. Arabcha."
+  },
+  {
+    "name": "Sobit",
+    "translation": "mustahkam, mahkam yoki kelishgan, xushbichim, chiroyli. Shakllari: Sobitboy, Sobitjon, Sobitbek, Sobitboy. Arabcha."
+  },
+  {
+    "name": "Sohib",
+    "translation": "ega, ho‘jayin, do‘st, hamdam, ilmu-fanda yo‘lboshchi, yo‘ldosh. Asli: Sohibiddin. Arabcha."
+  },
+  {
+    "name": "Sulaymon",
+    "translation": "himoyalangan, muhofazaga olingan yoki tinch, osoyishta. Ba’zilar “Tinchliksevar“ deb izohlashadi. Bu ism qadimiy yahudiy tilida"
+  },
+  {
+    "name": "Sulton",
+    "translation": "shoh, hukmdor ya’ni umri uzoq bo‘lib, baland martabalar egasi bo‘lsin. Arabcha."
+  },
+  {
+    "name": "Suhrob",
+    "translation": "qizil yog‘du, yoqut, la’l. Bu nom «Shohnoma» dostoni qahramoni Rustamning ismidir. Pahlaviycha."
+  },
+  {
+    "name": "Tabris",
+    "translation": "me’ros, boylik, iftihor, ulug‘vorlik. Arabcha, fors-tojikcha, tatarcha."
+  },
+  {
+    "name": "To‘lqin",
+    "translation": "hayotda yayrab, yashnab, dengiz to‘lqinidek jo‘shqin bo‘lib, to‘lib toshib yursin degan ma’noda. O‘zbekcha."
+  },
+  {
+    "name": "Tohir",
+    "translation": "pokiza, dog‘siz, nuqsonsiz, begunoh. Payg‘ambarimiz Muhammad (s.a.v.)ning o‘g‘illarining ismi bo‘lgan. Arabcha."
+  },
+  {
+    "name": "Toyip",
+    "translation": "hushbo‘y, mehribon, yaxshi. Arabcha Tayib ismining o‘zbekcha shakli."
+  },
+  {
+    "name": "Ubaydulloh",
+    "translation": "Allohning kichik quli, bandasi. Ubayd"
+  },
+  {
+    "name": "Ulug‘bek",
+    "translation": "buyuk hukmron, buyuk sulton yoki beklarning beki. Amir Temur nabirasi, davlat arbobi va olim Ulug‘bekdek yuqori martabali bo‘lsin degan niyatda ham qo‘yiladi. O‘zbekcha."
+  },
+  {
+    "name": "Umid",
+    "translation": "orzu qilingan, umid bilan kutilgan yoki yashab ketishiga umid qilingan bola. Arabcha."
+  },
+  {
+    "name": "Umidulloh",
+    "translation": "Alloh erishtirgan orzu-umid, armon. Arabcha."
+  },
+  {
+    "name": "Umar",
+    "translation": "mangu barhayot, yashaydigan. Bu nom Umar ibn Hattobning ismi bo‘lib, “choryorlar“ deb ataluvchi 4 halifaning ikkinchisidir. Bu ism ba’zi manbalarda “ziyoratchi, hoji“ deb ham talqin etiladi. Arabcha."
+  },
+  {
+    "name": "Uzayr",
+    "translation": "kuchli, qudratli, “ko‘makchi“. Qadimda Isroilda o‘tgan payg‘ambarlardan birining ismi. Arabcha."
+  },
+  { "name": "Urfon", "translation": "bilimli, ma’rifatli. Arabcha." },
+  {
+    "name": "Usmon",
+    "translation": "siniqchi, singanlarni davolovchi, shikastband yoki og‘ir, bosiq, mard, jasur. Bu nom Usmon ibn Affon (614-656 yillar) choryorlar deb yuritiluvchi halifalarning uchinchisining ismi. Arabcha."
+  },
+  {
+    "name": "Uchqun",
+    "translation": "hayoti nurli, yorug‘, nurli tolei porloq, iqboli baland, baxtiyor, saodatli va omadli, umri yorqin bola. O‘zbekcha."
+  },
+  {
+    "name": "Vafo",
+    "translation": "vafoli, sadoqatli, sodiq, ishonchli; ota-onasini qadrlaydigan, hurmat-izzatini o‘rniga qo‘yadigan solih farzand. Arabcha."
+  },
+  {
+    "name": "Vosil",
+    "translation": "ayrilmas, ajralmas, subutli do‘st yoki orzu qilib erishilgan farzand, visolga yetishgan. Arabcha."
+  },
+  {
+    "name": "Yahyo",
+    "translation": "sahiy, muruvvatli, ochiq qo‘l, bag‘ri keng; yashovchi, barhayot, hayotiy yoki hushxulq, insonga do‘st. Payg‘ambarlardan birining ismi. Yahudiycha."
+  },
+  { "name": "Yunus", "translation": "Iona, Ionis" },
+  {
+    "name": "Yusuf",
+    "translation": "qadimiy yahudiycha nom Iosifning (Yaqub payg‘ambar o‘g‘li) arabcha shakli. Ma’nosi: o‘sgan, ko‘paygan. Yusuf nomi sharqda go‘zallik, hushro‘ylik timsolidir. Yusuf payg‘ambarning ismlari. Arabcha, yahudiycha."
+  },
+  {
+    "name": "Yoqub",
+    "translation": "izidan boruvchi, sabr-toqatli, dovyurak, jasur. Yahudiycha."
+  },
+  {
+    "name": "Yoznur",
+    "translation": "yozda tug‘ilgan o‘gilni umri ravshan, nurli bo‘lsin. Arabcha, o‘zbekcha."
+  },
+  {
+    "name": "Yorbek",
+    "translation": "beklar nasliga mansub bola. Oiladagilariga hamroh, yo‘ldosh bo‘lib o‘ssin. Fors-tojikcha, o‘zbekcha."
+  },
+  {
+    "name": "Yorqin",
+    "translation": "hayoti (kelajagi) porloq, nurga to‘la bo‘lsin yoki mehrli, shavkatli, muruvvatli, samimiy, ko‘ngli ochiq bola. O‘zbekcha."
+  },
+  {
+    "name": "Zafar",
+    "translation": "g‘olib, zafar quchuvchi, g‘alabaga erishuvchi, baxtli, saodatli, iqboli porloq, tolei baland. Arabcha."
+  },
+  {
+    "name": "Zayniddin",
+    "translation": "dinning ko‘rki, go‘zal husni bo‘luvchi bola. Arabcha."
+  },
+  {
+    "name": "Zayd",
+    "translation": "tuhfa, in’om yoki ko‘payish, qo‘shilish. Arabcha."
+  },
+  { "name": "Zoyir", "translation": "ziyoratchi. Arabcha." },
+  {
+    "name": "Zokir",
+    "translation": "Allohni zikr qiluvchi, Allohga itoat qiluvchi solih banda. Arabcha."
+  },
+  {
+    "name": "Ziyo",
+    "translation": "nurli, yorqin yoki baxtli, tolei baland. Shakillari (Ziyovuddin, Ziyoali, Ziyodulloh). Arabcha."
+  },
+  {
+    "name": "Zabir",
+    "translation": "mahkam, mustahkam; to‘silgan, himoya qilingan; kuchli, qudratli. Arabcha."
+  },
+  {
+    "name": "Zohid",
+    "translation": "dindor, iymonu e’tiqodli. Xudojo‘y, taqvodor, tarki dunyo qilgan. Asli Zohidulla, Zohiddin. Arabcha."
+  },
+  {
+    "name": "Zohir",
+    "translation": "nurli, ravshan, porloq, yoki ko‘makchi, yordamchi, dastyor, suyanchiq, madadkor. Arabcha."
+  },
+  {
+    "name": "Zubayr",
+    "translation": "qudratli, aqlli, dono, idrokli, zehnli, baquvvat, bilagida kuchi bor."
+  },
+  {
+    "name": "Shamsiddin",
+    "translation": "dinning quyoshi, yog‘dusi, porloq vakili, din nurini tarqalishiga hissa qo‘shuvchi. Arabcha."
+  },
+  {
+    "name": "Shahobiddin",
+    "translation": "yorug‘, porloq, chaqnoq yulduz, dinning nurli, zulmatni yorituvchi yorug‘ yulduzi. Arabcha."
+  },
+  {
+    "name": "Shahboz",
+    "translation": "shunqor, lochin, ya’ni dovyurak, mard; chaqqon, sezgir, shiddatkor, qudratli bo‘lsin. Fors-tojikcha."
+  },
+  {
+    "name": "Shahzod",
+    "translation": "shohlar nasliga mansub bola, podshoh o‘g‘li, boy. Zodagon, sardor, hukmron va qirollardek savlatli, viqorli, obro‘-e’tiborli. Fors-tojikcha."
+  },
+  {
+    "name": "Shahriyor",
+    "translation": "buyuk podshoh, shohlar shohi, shohanshoh. Fors-tojikcha."
+  },
+  {
+    "name": "Shodiyor",
+    "translation": "doimo quvnoqlik, shodlik, baxtiyorlik hamrohi bo‘lsin ma’nosida. Fors-tojikcha, o‘zbekcha."
+  },
+  {
+    "name": "Shukrulloh",
+    "translation": "Allohga shukr aytuvchi. Yoki, bizga farzand ato qilganligi uchun Allohga cheksiz hamdu sanolar, shukronalar bo‘lsin ma’nosida. Arabcha."
+  },
+  {
+    "name": "Sherzod",
+    "translation": "sherdek dovyuraklar, jasurlar avlodidan bo‘lgan bola ma’nosida. Fors-tojikcha."
+  }
+]
+}

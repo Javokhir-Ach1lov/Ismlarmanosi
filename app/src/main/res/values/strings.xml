@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ismlar manosi</string>
+    <string name="company_name">Javokhir_apps</string>
+    <string name="app_info">"Ushbu ilova orqali siz o'zingizning ismingiz manosini bilib olishingiz mumkin.Bu ilovada 350 + ismlar manosni bor keyinchalik yana boyitib boramiz"</string>
+    <string name="socials">Social links:</string>
+    <string name="ratings">Rating</string>
+    <string name="app_version">1.0.0</string>
+</resources>
